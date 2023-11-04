@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root"; // Ganti dengan username MySQL Anda
 $password = ""; // Ganti dengan password MySQL Anda
-$database = "harmoni";
+$database = "massive";
 
 $koneksi = new mysqli($host, $username, $password, $database);
 
